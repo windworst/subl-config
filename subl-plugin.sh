@@ -1,5 +1,5 @@
 #!/bin/bash
-SUBL_PLUGIN_PATH=~/.config/sublime-text-3/Packages
+SUBL_PLUGIN_PATH=~/.config/sublime-text*/Packages
 PLUGIN_LIST_FILE=plugin-list
 SCRIPT_NAME=subl-plugin.sh
 CURRENT_PATH=$PWD
